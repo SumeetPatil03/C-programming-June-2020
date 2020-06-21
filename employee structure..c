@@ -12,7 +12,8 @@ typedef struct{
  
 int main()
 {
-    int i, n=2;
+      printf("==========Program by :Sumeet Patil: ===========\n");
+	int i, n=2;
  
     Employee employees[n];
  
@@ -57,6 +58,8 @@ int main()
         printf("%d \n",employees[i].salary);
  
         printf("\n");
+        
+        printf("Program by Sumeet Patil ");
     }
  
     return 0;
